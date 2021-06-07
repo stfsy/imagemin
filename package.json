@@ -52,7 +52,7 @@
   "dependencies": {
     "file-type": "^7.4.0",
     "globby": "^7.1.1",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.5",
     "pify": "^3.0.0",
     "promise.pipe": "^3.0.0"
   },
@@ -65,7 +65,7 @@
     "imagemin-webp": "^4.0.0",
     "istanbul": "^0.4.5",
     "is-jpg": "^1.0.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.5",
     "mocha": "^4.0.1",
     "tempfile": "^2.0.0"
   }
